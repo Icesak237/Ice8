@@ -16,3 +16,6 @@ The left side of the keyboard is used as inputs according to the following mappi
 
 Note: Z and Y are interchangeable to allow for the use of both QWERTY and QWERTZ keyboard layout.
 Pressing ESC will exit the emulator.
+
+## Related Projects
+I also have recreated this in emulator in [Odin](https://github.com/Icesak237/Iodine8)
